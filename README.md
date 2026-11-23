@@ -9,7 +9,7 @@ TrendGuard — a long-only cbBTC trend bot for make.fun's "Race a BTC trading bo
 ## Run it
 
 ```sh
-python3 main.py
+node main.ts
 ```
 
 The bot speaks agent-fun/bars-replay/v1 (newline-delimited JSON on stdin/stdout). Grade it on the kit's dev window with the make.fun kit:
